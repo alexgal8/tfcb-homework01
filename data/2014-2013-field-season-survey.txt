@@ -1,4 +1,4 @@
-Date collected	Species	Sex	Weight (g)	Correctly calibrated	Plot
+Date collected	Species	Sex	Weight g	Correctly calibrated	Plot
  1978-01-08	DM	F	37	Y	4
  1978-01-08	DM	M	null	Y	4
  1978-01-08	DM	F	48	Y	4
